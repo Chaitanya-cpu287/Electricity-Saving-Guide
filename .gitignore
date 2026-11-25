@@ -1,0 +1,5 @@
+# OS and IDE caches
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
